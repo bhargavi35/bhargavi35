@@ -6,21 +6,25 @@
     
 </h1>
 
+<img src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710721?k=20&m=1241710721&s=612x612&w=0&h=mF-ly28PsqNGU7sgYQb12YMVu0yehaYEhLufEclT07Q=" width="85%">
+
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- I'm a Full Stack Web Developer skilled in MERN stack from INDIA,who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
-<br>
-<!----------------------------------- Profile View Section ------------------------------------>
+- 🔭 I’m currently learning **React JS framework**
 
-<!-- <p align="left">
-    <a href="https://github.com/bhargavi35">
-        <img src="https://komarev.com/ghpvc/?username=bhargavi35&label=Profile%20views&color=0e75b6&style=flat" alt="bhargavi35" />
-    </a>
-</p>
-<br> -->
+- 🤝 I’m looking for opportunity **to explore my Skills.**
+  
+  ### 👯 Other interests
+  I like Pencilart :art:.
+  
+- 📫 How to reach me **chellabhargavi2002@gmail.com**
+
+<br>
+
 
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
@@ -40,7 +44,7 @@
     <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
     <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" />
     <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-    <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled-components" />
+    <img src="https://img.shields.io/badge/medium-DB7093?style=for-the-badge&logo=medium&logoColor=white" alt="medium" />
 </p>
 <br>
 
@@ -73,13 +77,13 @@
 
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
-<!-- <h2><i>My GitHub Stats</i></h2>
+<h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavi35&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=dark" alt="m-sehrawat" height="139" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=m-sehrawat&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="m-sehrawat" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavi35&show_icons=true&include_all_commits=true&count_private=true&hide=issues,locale=en&theme=dark" alt="bhargavi35" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="bhargavi35" height="139" />
 </p>
-<br> -->
+<br>
 
 
 <!----------------------------------- Top Repository Section ------------------------------------>
