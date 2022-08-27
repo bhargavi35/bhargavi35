@@ -19,7 +19,7 @@
 - 🤝 I’m looking for opportunity **to explore my Skills.**
   
   ### 👯 Other interests
-  I like Pencilart :art:.
+  I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
   
 - 📫 How to reach me **chellabhargavi2002@gmail.com**
 
