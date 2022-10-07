@@ -1,18 +1,18 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-    Hi
-    <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="35">
-    I'm Bhargavi chella
+   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+Bhargavi😇;Full-Stack+Developer...;"style="max-width: 100%;">
+<br/>
     
 </h1>
-
-<img src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710721?k=20&m=1241710721&s=612x612&w=0&h=mF-ly28PsqNGU7sgYQb12YMVu0yehaYEhLufEclT07Q=" width="85%">
-
-<!----------------------------------- About Section ------------------------------------>
-
 <h3>
     <i>- I'm a Full Stack Web Developer skilled in MERN stack from INDIA,who focuses on writing clean, elegant and efficient code.</i>
 </h3>
+
+<img src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710721?k=20&m=1241710721&s=612x612&w=0&h=mF-ly28PsqNGU7sgYQb12YMVu0yehaYEhLufEclT07Q=" width="85%">
+
+---
+<!----------------------------------- About Section ------------------------------------>
+### :woman_technologist: About Me :
 
 - 🔭 I’m currently learning **React JS framework**
 
@@ -25,7 +25,7 @@
 
 <br>
 
-
+---
 <!----------------------------------- Tech Stack Section ------------------------------------>
 
 <h2><i>Tech Stack</i></h2>
@@ -48,7 +48,7 @@
 </p>
 <br>
 
-
+---
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
@@ -74,7 +74,7 @@
 <br>
 
 
-
+---
 <!----------------------------------- GitHub Stats Section ------------------------------------>
 
 <h2><i>My GitHub Stats</i></h2>
@@ -85,6 +85,7 @@
 </p>
 <br>
 
+---
 
 <!----------------------------------- Top Repository Section ------------------------------------>
 
@@ -108,3 +109,5 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Food-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
     </a>
 </p>
+---
+<br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%98%87 width="100%" ></br>
