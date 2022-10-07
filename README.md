@@ -85,6 +85,7 @@
 </p>
 <br>
 
+
 ---
 
 <!----------------------------------- Top Repository Section ------------------------------------>
@@ -110,4 +111,4 @@
     </a>
 </p>
 ---
-<br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%98%87 width="100%" ></br>
+<br><img align="center" src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%98%87" "style=width:100%"></br>
