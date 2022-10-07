@@ -12,17 +12,25 @@
 
 ---
 <!----------------------------------- About Section ------------------------------------>
+<div>
+    <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
+</div>
+
 ### :woman_technologist: About Me :
 
 - 🔭 I’m currently learning **React JS framework**
 
 - 🤝 I’m looking for opportunity **to explore my Skills.**
-  
-  ### 👯 Other interests
-  I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
+
+- 📝 I regularly write articles on [**Medium**](https://medium.com/@chellabhargavi2002)
   
 - 📫 How to reach me **chellabhargavi2002@gmail.com**
 
+- 📄 Know about my experiences [**Resume**](https://drive.google.com/file/d/1D2iOxSwiAwK7awzAOMCGYANGBTIOhxke/view?usp=sharing)
+
+  ### 👯 Other interests
+  I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
+  
 <br>
 
 ---
