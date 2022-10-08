@@ -103,19 +103,19 @@
 
 <p>
     <a href="https://github.com/bhargavi35/netmeds">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=netmeds&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=netmeds&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
     <a href="https://github.com/bhargavi35/YouTube">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=YouTube&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=YouTube&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
     <a href="https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=Mytheresa-clone-website&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=Mytheresa-clone-website&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
     <a href="https://github.com/vishnu9651/Boat-project-unit-2">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu9651&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu9651&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
     <a href="https://github.com/bhargavi35/Food-App">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Food-App&locale=en&border_radius=0&theme=dark" alt="m-sehrawat" />
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Food-App&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
 </p>
 ---
