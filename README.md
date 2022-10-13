@@ -1,6 +1,6 @@
 <!----------------------------------- Heading Section ------------------------------------>
 <h1 align="center">
-   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+Bhargavi😇;Full-Stack+Developer...;"style="max-width: 100%;">
+   <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+Bhargavi_Chella😇;Full-Stack+Developer...;"style="max-width: 100%;">
 <br/>
     
 </h1>
