@@ -66,7 +66,7 @@
     <a href="https://linkedin.com/in/bhargavi-chella-6a3530190" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/bhargavi-chella" />
     </a>
-    <a href="https://twitter.com/bhargavi_chella"target="_blank">
+    <a href="https://twitter.com/bhargavi_chella" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/bhargavi_chella" />
     </a>
     <a href="#">
