@@ -87,15 +87,19 @@
 
 <h2><i>My GitHub Stats</i></h2>
 
-<p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavi35&show_icons=true&include_all_commits=true&count_private=true&hide=issues,locale=en&theme=dark" alt="bhargavi35" height="180" />
-   <br>
+<p display="flex" align="center">
+<img alt="Jha-Vineet69's Top Languages Stats"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&hide=smalltalk&theme=algolia&layout=compact" width="400" />
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&theme=react&hide_border=false)<br/>
 
- <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" alt="bhargavi35" height="180" />
 
-   </p>
+  <a href="https://github.com/bhargavi35?tab=repositories">
+    <img width="400" height="auto"  alt="Arjun's github stats" 
+         src="https://github-readme-stats.vercel.app/api?username=bhargavi35&show_icons=true&theme=algolia&count_private=true" />
+  </a>
+  
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact" alt="bhargavi35" />
+</p>
+
 ---
 
 <!----------------------------------- Top Repository Section ------------------------------------>
