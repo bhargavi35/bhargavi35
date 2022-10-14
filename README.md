@@ -22,7 +22,7 @@
 
 - 🤝 I’m looking for opportunity **to explore my Skills.**
 
-- 📝 I regularly write articles on [**Medium**](https://medium.com/@chellabhargavi2002)
+- 💻 I'm passionate about making creative websites.
   
 - 📫 How to reach me **chellabhargavi2002@gmail.com**
 
