@@ -63,19 +63,19 @@
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/bhargavi-chella-6a3530190" target="blank">
+    <a href="https://linkedin.com/in/bhargavi-chella-6a3530190" target="_blank">
         <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://linkedin.com/in/bhargavi-chella" />
     </a>
-    <a href="https://twitter.com/bhargavi_chella"target="blank">
+    <a href="https://twitter.com/bhargavi_chella"target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/bhargavi_chella" />
     </a>
     <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
-    <a title="bhargavibanu3513@gmail.com" href="mailto:bhargavibanu3513@gmail.com" target="blank">
+    <a title="bhargavibanu3513@gmail.com" href="mailto:bhargavibanu3513@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bhargavibanu3513@gmail.com" />
     </a>
-    <a href="https://medium.com/@chellabhargavi2002" target="blank">
+    <a href="https://medium.com/@chellabhargavi2002" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="@chellabhargavi2002"height="30" width="40" />
     </a>
 </p>
