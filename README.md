@@ -72,8 +72,8 @@
     <a href="#">
         <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://mohit-portfolio.vercel.app/" />
     </a>
-    <a title="bhargavibanu3513@gmail.com" href="mailto:bhargavibanu3513@gmail.com" target="_blank">
-        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="bhargavibanu3513@gmail.com" />
+    <a title="chellabhargavi2002@gmail.com" href="mailto:chellabhargavi2002@gmail.com" target="_blank">
+        <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chellabhargavi2002@gmail.com" />
     </a>
     <a href="https://medium.com/@chellabhargavi2002" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="@chellabhargavi2002"height="30" width="40" />
