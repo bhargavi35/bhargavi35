@@ -117,11 +117,11 @@
      <a href="https://github.com/bhargavi35/YouTube">
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=YouTube&locale=en&border_radius=0&theme=dark" alt="banu"        />
      </a>
-    <a href="https://github.com/ArjunSinghBhakuni/Mytheresa-clone-website">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=ArjunSinghBhakuni&repo=Mytheresa-clone-website&locale=en&border_radius=0&theme=dark" alt="banu" />
+    <a href="https://github.com/bhargavi35/Mytheresa-clone-website">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Mytheresa-clone-website&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
-    <a href="https://github.com/vishnu9651/Boat-project-unit-2">
-        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=vishnu9651&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="banu" />
+    <a href="https://github.com/bhargavi35/Boat-project-unit-2">
+        <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
 </p>
 
