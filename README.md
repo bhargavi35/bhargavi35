@@ -26,7 +26,7 @@
     <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
 </div>
 
-### :woman_technologist: About Me :
+### :woman_technologist: More About me:
 
 - 🔭 I’m currently learning **React JS framework**
 
