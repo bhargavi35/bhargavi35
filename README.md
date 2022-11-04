@@ -3,13 +3,13 @@
 <h1 align="center">
    <br><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=25&pause=1000&color=FFBD8CFF&width=435&lines=Hii%2C+I'm+Bhargavi_Chella😇;Full-Stack+Web+Developer...;"style="max-width: 100%;">
 <br/>
-   <a href="https://bhargavi35.github.io/">
+   <a href="https://bhargavi35.github.io/" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://bhargavi35.github.io/" />
 </a>
-<a title="chellabhargavi2002@gmail.com" href="mailto:chellabhargavi2002@gmail.com">
+<a title="chellabhargavi2002@gmail.com" href="mailto:chellabhargavi2002@gmail.com" target="_blank">
   <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chellabhargavi2002@gmail.com" />
 </a>
-<a href="https://www.linkedin.com/in/bhargavi-chella-6a3530190">
+<a href="https://www.linkedin.com/in/bhargavi-chella-6a3530190" target="_blank">
   <img align="center" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="https://www.linkedin.com/in/bhargavi-chella-6a3530190" />
 </a>
     
