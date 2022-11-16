@@ -80,9 +80,6 @@
     <a href="https://twitter.com/bhargavi_chella" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="https://twitter.com/bhargavi_chella" />
     </a>
-     <a href="https://bhargavi35.github.io/" target="_blank">
-  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://bhargavi35.github.io/" />
-</a>
     <a title="chellabhargavi2002@gmail.com" href="mailto:chellabhargavi2002@gmail.com" target="_blank">
         <img align="center" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="chellabhargavi2002@gmail.com" />
     </a>
