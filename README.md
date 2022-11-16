@@ -86,6 +86,9 @@
     <a href="https://medium.com/@chellabhargavi2002" target="_blank">
         <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg?style=for-the-badge&logo=twitter&logoColor=white" alt="@chellabhargavi2002"height="30" width="40" />
     </a>
+     <a href="https://bhargavi35.github.io/" target="_blank">
+  <img align="center" src="https://img.shields.io/badge/Portfolio-18A303?style=for-the-badge&logo=ionic&logoColor=white" alt="https://bhargavi35.github.io/" />
+</a>
 </p>
 <br>
 
