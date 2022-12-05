@@ -139,6 +139,4 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
 </p>
-<!--  --> 
-<!-- <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br> -->
 
