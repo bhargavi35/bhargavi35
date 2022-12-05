@@ -114,9 +114,9 @@
 ---
 
 
-<a href="http://www.github.com/bhargavi35"><img src="https://activity-graph.herokuapp.com/graph?username=bhargavi35&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
+<!-- <a href="http://www.github.com/bhargavi35"><img src="https://activity-graph.herokuapp.com/graph?username=bhargavi35&bg_color=000000&color=ffffff&line=0891b2&point=ffffff&area_color=000000&area=true&hide_border=true&custom_title=GitHub%20Commits%20Graph" alt="GitHub Commits Graph" /></a>
 
----
+
 <!----------------------------------- Top Repository Section ------------------------------------>
 
 <!-- <h2><i>Top Repositories</i></h2>
@@ -139,4 +139,7 @@
         <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=bhargavi35&repo=Boat-project-unit-2&locale=en&border_radius=0&theme=dark" alt="banu" />
     </a>
 </p>
+
+
+  <br><img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&pause=1000&color=BC66FF&width=435&lines=Thanks+for+Visiting+my+profile%F0%9F%A4%97"></br> 
 
