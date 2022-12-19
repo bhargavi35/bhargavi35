@@ -138,6 +138,9 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
             height="auto" alt="bhargavi's github stats"
             src="https://github-readme-stats.vercel.app/api/?username=bhargavi35&hide=smalltalk&theme=algolia&show_icons=true&locale=en"
             alt="bhargavi35" /> </a></p>
+<p display="flex" align="center">
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact" alt="bhargavi35" />
+</p>
 
 <!--  -->
 <br><img
