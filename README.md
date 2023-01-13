@@ -133,7 +133,7 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
 
 <p display="flex" align="center"><img align="left"
         src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargavi35&hide=smalltalk&show_icons=true&theme=algolia&locale=en&layout=compact"
-        width="400" height="auto"  alt="bhargavi35" />
+        width="500" height="auto"  alt="bhargavi35" />
 </p>
 
 <p display="flex" align="center">
@@ -143,8 +143,7 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
             width="300"  alt="bhargavi's github stats" />
     </a>
 </p>
-
-<p display="flex" align="center">
+<p  display="flex" align="center">
     <img align="center"
         src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact"
         alt="bhargavi35" />
