@@ -15,7 +15,7 @@
             src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"
             alt="chellabhargavi2002@gmail.com" />
     </a>
-    <a href="https://www.linkedin.com/in/bhargavi-chella-6a3530190" target="_blank">
+    <a href="https://www.linkedin.com/in/bhargavichella/" target="_blank">
         <img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="https://www.linkedin.com/in/bhargavi-chella-6a3530190" />
