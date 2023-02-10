@@ -97,7 +97,7 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
 
 
 <p align="left">
-    <a href="https://linkedin.com/in/bhargavi-chella-6a3530190" target="_blank">
+    <a href="https://www.linkedin.com/in/bhargavichella/" target="_blank">
         <img align="center"
             src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
             alt="https://linkedin.com/in/bhargavi-chella" />
