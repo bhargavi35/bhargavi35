@@ -23,8 +23,10 @@
 
 </h1>
 <h3>
-    <i>- - I'm a Full Stack Web Developer skilled in MERN stack from INDIA, focusing on writing clean, elegant, and efficient code. I am a passionate Developer, with strong administrative and communication skills, good attention to detail, and the ability to write efficient code using MERN Stack and dedicated to my work.
-</i>
+<!--     <i>- - I'm a Full Stack Web Developer skilled in MERN stack from INDIA, focusing on writing clean, elegant, and efficient code. I am a passionate Developer, with strong administrative and communication skills, good attention to detail, and the ability to write efficient code using MERN Stack and dedicated to my work.
+</i> -->
+    <i>
+        Proactive, performance-oriented programmer with granular knowledge of MERN stack equipped to juggle various duties on the front end and back end. Eager to take on a stimulating chance and growth experience in a demanding capacity as a full-stack web developer.</i>
 </h3>
 
 <img src="https://media.istockphoto.com/vectors/working-at-home-vector-flat-style-illustration-online-career-space-vector-id1241710721?k=20&m=1241710721&s=612x612&w=0&h=mF-ly28PsqNGU7sgYQb12YMVu0yehaYEhLufEclT07Q="
