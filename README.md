@@ -40,7 +40,7 @@
 
 ### :woman_technologist: More About me:
 
-- 🔭 I’m currently learning **NEM**
+- 🔭 I’m a **Full Stack Web Developer**
 
 - 🤝 I’m looking for opportunity **to explore my Skills.**
 
