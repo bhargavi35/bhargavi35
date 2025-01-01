@@ -33,6 +33,13 @@
     width="85%">
 
 ---
+
+### 💻 Current Focus  
+- 🌱 Expanding mastery of advanced CSS3, SCSS, and style components for dynamic and config-driven UI designs. Proficient in HTML, from foundational structures to crafting complex, dynamic websites.  
+- 🚀 Elevating user experiences by integrating React.js, Redux, Redux Toolkit, and Next.js for state management and modern UI development.  
+- 🛠️ Developing robust RESTful APIs using Node.js, Express.js, and MongoDB to support scalable backend systems.  
+- 📊 Staying updated on emerging technologies and trends to enhance web development practices and applying advanced debugging skills to resolve challenges in live projects.  
+---
 <!----------------------------------- About Section ------------------------------------>
 <div>
     <img align="right" alt="Coding" width="400" src="https://media.tenor.com/UttC4AITYR4AAAAd/full-stack-developer.gif">
@@ -92,6 +99,11 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
 <br>
 
 ---
+
+### 🎓 Certifications  
+- [Full Stack MERN Developer](https://drive.google.com/file/d/1Jimv4uV7_UzI_mtQR_Scz81n3C61gLqR/view): Certified Full Stack MERN Developer with a strong command of MongoDB, Express.js, React.js, and Node.js. Skilled in creating dynamic, scalable, and efficient web applications, showcasing expertise in both frontend and backend technologies. Proficient in architecting and deploying comprehensive web solutions tailored to user needs.  
+
+---
 <!----------------------------------- Social Media Links Section ------------------------------------>
 
 <h2><i>Let's Connect</i></h2>
@@ -141,7 +153,7 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
         <a href="https://github.com/bhargavi35?tab=repositories">
         <img align="right"
             src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhargavi35&hide=smalltalk&theme=algolia&show_icons=true&locale=en"
-            width="300"  alt="bhargavi's github stats" />
+            width="300"  alt="bhargavi's GitHub stats" />
     </a>
 </p>
 <p  display="flex" align="center">
