@@ -143,25 +143,18 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
 
 <h2><i>My GitHub Stats</i></h2>
 
-
-<p display="flex" align="center"><img align="left"
-        src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargavi35&hide=smalltalk&show_icons=true&theme=algolia&locale=en&layout=compact"
-        width="500" height="auto"  alt="bhargavi35" />
+<p>
+    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargavi35&hide=smalltalk&show_icons=true&theme=algolia&locale=en&layout=compact" 
+        alt="bhargavi35" height="180" />
+     <img align="center" id="github-stats-card" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact"
+                    alt="bhargavi35" height="180" />
+<br><br>
+<div align="center">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" 
+        alt="bhargavi35" height="139" />
+    </div>
 </p>
-
-<p display="flex" align="center">
-        <a href="https://github.com/bhargavi35?tab=repositories">
-        <img align="right"
-            src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=bhargavi35&hide=smalltalk&theme=algolia&show_icons=true&locale=en"
-            width="300"  alt="bhargavi's GitHub stats" />
-    </a>
-</p>
-<p  display="flex" align="center">
-    <img align="center"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact"
-        alt="bhargavi35" />
-</p>
-
+<br>
 
 <!--  -->
 <br><img
