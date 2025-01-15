@@ -56,7 +56,7 @@
 - 📫 How to reach me **chellabhargavi2002@gmail.com**
 
 - 📄 Know about my experiences
-[**Resume**](https://drive.google.com/file/d/19LP7fRBcWpv1atg0Bi9ZX4_pJ8FLMQEa/view?usp=sharing)
+[**Resume**](https://drive.google.com/file/d/13UXOPzbotbIXpvMJZg-Z_jmJsXJgEVnX/view?usp=sharing)
 
 ### 👯 Other interests
 I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
