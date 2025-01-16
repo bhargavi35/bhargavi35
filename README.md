@@ -144,15 +144,18 @@ I love Pencilart :art:, Books:book:, Food:green_salad: Coding:computer:.
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargavi35&hide=smalltalk&show_icons=true&theme=algolia&locale=en&layout=compact" 
+<!--     <img align="center" src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=bhargavi35&hide=smalltalk&show_icons=true&theme=algolia&locale=en&layout=compact" 
         alt="bhargavi35" height="180" />
      <img align="center" id="github-stats-card" src="https://github-readme-streak-stats.herokuapp.com/?user=bhargavi35&hide=smalltalk&theme=algolia&layout=compact"
                     alt="bhargavi35" height="180" />
 <br><br>
 <div align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=dark" 
+        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=algolia" 
         alt="bhargavi35" height="139" />
-    </div>
+    </div> -->
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=bhargavi35&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=0&locale=en&theme=algolia" alt="bhargavi35" height="139" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=bhargavi35&layout=compact&exclude_repo=Lybrate-Website-Clone-Version-2.0,Lybrate-Website-Clone,Adidas-Clone&hide=Shell&border_radius=0&theme=algolia" alt="bhargavi35" height="139" />
+</p>
 </p>
 <br>
 
